@@ -41,9 +41,3 @@ This illustration does not represent the entire parolee population by county map
 {% include s_and_o.html %}
 **Fig 6.** Gauging proponents and opponents of prop 17 from YouTube API data.
 
-## Other States After Approving Prop 17
-![p1](/assets/MD_Voter_Turnout.png)
-**Fig 7.** Maryland voter turn out after parolees allowed to vote.
-
-![p2](/assets/RI_Voter_Turnout.png)
-**Fig 8.** Rhode Island voter turn out after parolees allowed to vote.
