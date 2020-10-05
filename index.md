@@ -5,7 +5,7 @@ title: UCD Prop 17 Data Challenge
 
 Prop 17 is a California constitutional amendment on the ballot, November 3, 2020, for restoring the voting rights of persons on parole. 
 
-A "yes" on the ballot would restore the parolees right to vote, while a "no" will do the opposite. Here are few graphics we have put together to illuminate the prop 17 ballot.
+A **yes** on the ballot would restore the parolees right to vote, while a **no** will do the opposite. Here are few graphics we have put together to illuminate the prop 17 ballot.
 
 ## About
 In order to get a better sense for the disenfranchisement of parolees in california we hope to paint a better picture of who parolees might be, and which communities might see the most new votes if parolees are allowed to vote. Additionally some interesting analysis has been done in other states that have allowed parole votes and there is some interesting analysis regarding the attitudes towards this proposition. 
