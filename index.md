@@ -14,12 +14,15 @@ In order to get a better sense for the disenfranchisement of parolees in califor
 
 ### Parolee age distribution
 {% include parole_age.html %}
+**Fig 1.** Parole age distribution
 
 ### Parolee agent caseload distribution
 {% include parole_agent_caseload.html %}
+**Fig 2.** Parole-agent caseload distribution
 
 ### Parolee ethnicities
 {% include parole_ethnicity.html %}
+**Fig 3.** Parole ethnicity distribution
 
 ## California major parole populations and county partisanship
 {% include parolees_vs_partisan_counties.html %}
@@ -31,9 +34,16 @@ This illustration does not represent the entire parolee population by county map
 
 [2] Report of Registration. Retrieved from <https://www.sos.ca.gov/elections/report-registration/15-day-gen-2018>
 
-## Infering Attitudes Towards Prop 17 Over The Years
 {% include ratio_parole.html %}
+**Fig 5.** 
 
+## Infering Attitudes Towards Prop 17 Over The Years
 {% include s_and_o.html %}
+**Fig 6.** Gauging proponents and opponents of prop 17 from YouTube API data.
 
-## Other States 
+## Other States After Approving Prop 17
+![p1](/assets/MD_Voter_Turnout.png)
+**Fig 7.** Maryland voter turn out after parolees allowed to vote.
+
+![p2](/assets/RI_Voter_Turnout.png)
+**Fig 8.** Rhode Island voter turn out after parolees allowed to vote.
